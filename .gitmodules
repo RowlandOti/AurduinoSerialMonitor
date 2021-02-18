@@ -1,0 +1,3 @@
+[submodule "physicaloidLibrary"]
+	path = physicaloidLibrary
+	url = git@github.com:RowlandOti/PhysicaloidLibrary.git
